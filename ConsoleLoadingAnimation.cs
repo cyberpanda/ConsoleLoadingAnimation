@@ -1,3 +1,4 @@
+//älterer code. TODO neuschreiben ggf in mehreren Sprachen
 void cc() { Console.Clear(); }   
 void cr() { Console.ReadKey(); } 
 byte Sleeptimer = 90;
